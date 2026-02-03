@@ -1,5 +1,9 @@
 # 📊 Sales Forecasting & Revenue Analytics Dashboard
 
+## 📊 Dashboard Preview
+
+![Sales Forecasting & Revenue Analytics Dashboard](dashboard/dashboard screenshot.jpg)
+
 https://lookerstudio.google.com/reporting/fc8300f0-1c7f-4ff7-9b2c-d87724bf5b29
 
 This project presents an **end-to-end sales analytics and revenue forecasting solution** built on a real-world e-commerce dataset.  
