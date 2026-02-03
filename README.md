@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Sales Forecasting & Revenue Analytics Dashboard](dashboard/dashboard screenshot.jpg)
+![Sales Forecasting & Revenue Analytics Dashboard](dashboard/dashboard screenshot.png)
 
 https://lookerstudio.google.com/reporting/fc8300f0-1c7f-4ff7-9b2c-d87724bf5b29
 
